@@ -518,7 +518,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%65%72%69%63_%6A%68%74@%73%6A%74%75.%65%64%75.%63%6E", "_blank");
         },
       },{
         id: 'social-inspire',
@@ -546,7 +546,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://T-Eric.github.io", "_blank");
         },
       },{
       id: 'light-theme',
