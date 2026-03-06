@@ -26,9 +26,9 @@ latest_posts:
 
 I’m a third-year undergraduate at [ACM Honor Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), mentored by Prof. [Xiaohong Liu](https://jhc.sjtu.edu.cn/~xiaohongliu/).
 
-My research interest mainly lies in **Computer Vision, Generative Models and Machine Learning**. Currently I’m concentrating on Controllers for Vision Generation and Efficiency of Generative Models.
+My research interest mainly lies in **Computer Vision, Generative Models and Machine Learning**. Currently I’m concentrating on Controllers for Vision Generation and Efficient Generative Models.
 
-I believe this site will be enriched by my endeavor. Hope you **enjoy** here!
+I believe this site will be enriched with my endeavor. Hope you **enjoy** here!
 
 <div class="about-buttons">
   <a href="mailto:eric_jht@sjtu.edu.cn" class="capsule-btn" target="_blank">
@@ -37,7 +37,7 @@ I believe this site will be enriched by my endeavor. Hope you **enjoy** here!
   <a href="https://github.com/T-Eric" class="capsule-btn" target="_blank">
     <i class="fa-brands fa-github"></i>GitHub
   </a>
-  <!-- <a href="/assets/pdf/your_cv.pdf" class="capsule-btn" target="_blank">
-    <i class="fa-solid fa-file"></i> CV
-  </a> -->
+  <a href="/cv" class="capsule-btn" target="_blank">
+    <i class="fa-solid fa-file"></i>CV
+  </a>
 </div>
