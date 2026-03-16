@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-tactildm-for-vla-learning-unified-visual-text-tactile-representations-to-empower-vision-language-action-policies-is-accepted-by-isai-2026-sparkles",
-          title: 'TactiLDM for VLA: Learning Unified Visual-Text-Tactile Representations to Empower Vision-Language-Action Policies is accepted...',
+            },},{id: "news-an-early-release-of-tactildm-for-vla-learning-unified-visual-text-tactile-representations-to-empower-vision-language-action-policies-is-accepted-by-isai-2026-click-here-to-read-sparkles",
+          title: 'An early release of TactiLDM for VLA: Learning Unified Visual-Text-Tactile Representations to Empower...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
